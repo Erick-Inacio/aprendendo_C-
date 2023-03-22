@@ -1,2 +1,2 @@
-# aprendendo_C-
-Repositório para postar atividades e treinamentos na linguagem.
+# LP2
+Repositório para subir as atividades da disciplina de Linguagem de Programação 2
