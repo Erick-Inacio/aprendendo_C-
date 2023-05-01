@@ -1,0 +1,11 @@
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cadastro Inquilinos\Cadastro Inquilinos\obj\Debug\Cadastro Inquilinos.csproj.AssemblyReference.cache
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cadastro Inquilinos\Cadastro Inquilinos\obj\Debug\Cadastro Inquilinos.csproj.SuggestedBindingRedirects.cache
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cadastro Inquilinos\Cadastro Inquilinos\obj\Debug\Cadastro_Inquilinos.Properties.Resources.resources
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cadastro Inquilinos\Cadastro Inquilinos\obj\Debug\Cadastro Inquilinos.csproj.GenerateResource.cache
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cadastro Inquilinos\Cadastro Inquilinos\obj\Debug\Cadastro Inquilinos.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cadastro Inquilinos\Cadastro Inquilinos\obj\Debug\Cadastro_Inquilinos.Inquilinos.resources
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cadastro Inquilinos\Cadastro Inquilinos\bin\Debug\Cadastro Inquilinos.exe.config
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cadastro Inquilinos\Cadastro Inquilinos\bin\Debug\Cadastro Inquilinos.exe
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cadastro Inquilinos\Cadastro Inquilinos\bin\Debug\Cadastro Inquilinos.pdb
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cadastro Inquilinos\Cadastro Inquilinos\obj\Debug\Cadastro Inquilinos.exe
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Projeto Autoral\Cadastro Inquilinos\Cadastro Inquilinos\obj\Debug\Cadastro Inquilinos.pdb

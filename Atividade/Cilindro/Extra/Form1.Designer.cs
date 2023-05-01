@@ -53,6 +53,7 @@
             this.txtRaio.Name = "txtRaio";
             this.txtRaio.Size = new System.Drawing.Size(155, 20);
             this.txtRaio.TabIndex = 1;
+            this.txtRaio.Validated += new System.EventHandler(this.txtRaio_Validated);
             // 
             // lblAltura
             // 
@@ -69,6 +70,7 @@
             this.txtAltura.Name = "txtAltura";
             this.txtAltura.Size = new System.Drawing.Size(155, 20);
             this.txtAltura.TabIndex = 3;
+            this.txtAltura.Validated += new System.EventHandler(this.txtAltura_Validated);
             // 
             // lblVolume
             // 
@@ -81,6 +83,7 @@
             // 
             // txtVolume
             // 
+            this.txtVolume.Enabled = false;
             this.txtVolume.Location = new System.Drawing.Point(63, 94);
             this.txtVolume.Name = "txtVolume";
             this.txtVolume.Size = new System.Drawing.Size(155, 20);
@@ -110,7 +113,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(236, 177);
+            this.ClientSize = new System.Drawing.Size(246, 184);
             this.Controls.Add(this.btnFechar);
             this.Controls.Add(this.btnCalcular);
             this.Controls.Add(this.txtVolume);
