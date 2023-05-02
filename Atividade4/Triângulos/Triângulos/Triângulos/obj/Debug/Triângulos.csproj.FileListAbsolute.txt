@@ -1,0 +1,11 @@
+C:\Users\erick\Desktop\Faculdade\2º Semestre\LP2\Atividade4\Triângulos\Triângulos\obj\Debug\Triângulos.csproj.AssemblyReference.cache
+C:\Users\erick\Desktop\Faculdade\2º Semestre\LP2\Atividade4\Triângulos\Triângulos\obj\Debug\Triângulos.csproj.SuggestedBindingRedirects.cache
+C:\Users\erick\Desktop\Faculdade\2º Semestre\LP2\Atividade4\Triângulos\Triângulos\obj\Debug\Triângulos.frmTriangulos.resources
+C:\Users\erick\Desktop\Faculdade\2º Semestre\LP2\Atividade4\Triângulos\Triângulos\obj\Debug\Triângulos.Properties.Resources.resources
+C:\Users\erick\Desktop\Faculdade\2º Semestre\LP2\Atividade4\Triângulos\Triângulos\obj\Debug\Triângulos.csproj.GenerateResource.cache
+C:\Users\erick\Desktop\Faculdade\2º Semestre\LP2\Atividade4\Triângulos\Triângulos\obj\Debug\Triângulos.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\Faculdade\2º Semestre\LP2\Atividade4\Triângulos\Triângulos\bin\Debug\Triângulos.exe.config
+C:\Users\erick\Desktop\Faculdade\2º Semestre\LP2\Atividade4\Triângulos\Triângulos\bin\Debug\Triângulos.exe
+C:\Users\erick\Desktop\Faculdade\2º Semestre\LP2\Atividade4\Triângulos\Triângulos\bin\Debug\Triângulos.pdb
+C:\Users\erick\Desktop\Faculdade\2º Semestre\LP2\Atividade4\Triângulos\Triângulos\obj\Debug\Triângulos.exe
+C:\Users\erick\Desktop\Faculdade\2º Semestre\LP2\Atividade4\Triângulos\Triângulos\obj\Debug\Triângulos.pdb

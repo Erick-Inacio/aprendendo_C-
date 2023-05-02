@@ -28,13 +28,13 @@ namespace PMenu
                 if(num1 < num2)
                 {
                     Random random = new Random();
-                    int sorteado = random.Next(num1, num2);
+                    int sorteado = random.Next(num1, (num2 + 1));
                     txtSorteado.Text = sorteado.ToString();
                 }
                 else
                 {
                     Random random = new Random();
-                    int sorteado = random.Next(num2, num1);
+                    int sorteado = random.Next(num2, (num1 +1));
                     txtSorteado.Text = sorteado.ToString();
                 }
                 
