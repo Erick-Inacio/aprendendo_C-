@@ -16,5 +16,17 @@ namespace PClasses
         {
             InitializeComponent();
         }
+
+        private void btnMensalista_Click(object sender, EventArgs e)
+        {
+            frmMensalista objM = new frmMensalista();
+            objM.Show();
+        }
+
+        private void btnHorista_Click(object sender, EventArgs e)
+        {
+            frmHorista objH = new frmHorista();
+            objH.Show();
+        }
     }
 }

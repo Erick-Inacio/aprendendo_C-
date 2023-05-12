@@ -44,5 +44,10 @@ namespace PMenu
                 MessageBox.Show("São Diferentes");
             }
         }
+
+        private void frmExercicio2_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

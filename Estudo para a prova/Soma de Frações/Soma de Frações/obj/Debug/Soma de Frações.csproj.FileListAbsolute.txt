@@ -1,0 +1,11 @@
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Estudo para a prova\Soma de Frações\Soma de Frações\bin\Debug\Soma de Frações.exe.config
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Estudo para a prova\Soma de Frações\Soma de Frações\bin\Debug\Soma de Frações.exe
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Estudo para a prova\Soma de Frações\Soma de Frações\bin\Debug\Soma de Frações.pdb
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Estudo para a prova\Soma de Frações\Soma de Frações\obj\Debug\Soma de Frações.csproj.AssemblyReference.cache
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Estudo para a prova\Soma de Frações\Soma de Frações\obj\Debug\Soma de Frações.csproj.SuggestedBindingRedirects.cache
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Estudo para a prova\Soma de Frações\Soma de Frações\obj\Debug\Soma_de_Frações.Form1.resources
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Estudo para a prova\Soma de Frações\Soma de Frações\obj\Debug\Soma_de_Frações.Properties.Resources.resources
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Estudo para a prova\Soma de Frações\Soma de Frações\obj\Debug\Soma de Frações.csproj.GenerateResource.cache
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Estudo para a prova\Soma de Frações\Soma de Frações\obj\Debug\Soma de Frações.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Estudo para a prova\Soma de Frações\Soma de Frações\obj\Debug\Soma de Frações.exe
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Estudo para a prova\Soma de Frações\Soma de Frações\obj\Debug\Soma de Frações.pdb

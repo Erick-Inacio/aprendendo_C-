@@ -15,7 +15,7 @@ namespace PClasses
 
         public int Matricula //propriedade
         {
-            get { return Matricula; }
+            get { return matricula; }
             set {matricula = value; }
         }
 

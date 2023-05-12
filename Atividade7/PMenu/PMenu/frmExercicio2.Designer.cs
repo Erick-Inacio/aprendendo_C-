@@ -40,7 +40,7 @@
             // txtPalavra1
             // 
             this.txtPalavra1.Location = new System.Drawing.Point(108, 16);
-            this.txtPalavra1.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.txtPalavra1.Margin = new System.Windows.Forms.Padding(6);
             this.txtPalavra1.Name = "txtPalavra1";
             this.txtPalavra1.Size = new System.Drawing.Size(180, 29);
             this.txtPalavra1.TabIndex = 0;
@@ -48,7 +48,7 @@
             // txtPalavra2
             // 
             this.txtPalavra2.Location = new System.Drawing.Point(108, 77);
-            this.txtPalavra2.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.txtPalavra2.Margin = new System.Windows.Forms.Padding(6);
             this.txtPalavra2.Name = "txtPalavra2";
             this.txtPalavra2.Size = new System.Drawing.Size(180, 29);
             this.txtPalavra2.TabIndex = 1;
@@ -56,7 +56,7 @@
             // btnSaoIguais
             // 
             this.btnSaoIguais.Location = new System.Drawing.Point(15, 118);
-            this.btnSaoIguais.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.btnSaoIguais.Margin = new System.Windows.Forms.Padding(6);
             this.btnSaoIguais.Name = "btnSaoIguais";
             this.btnSaoIguais.Size = new System.Drawing.Size(174, 62);
             this.btnSaoIguais.TabIndex = 2;
@@ -87,7 +87,7 @@
             // btnInserirMeio
             // 
             this.btnInserirMeio.Location = new System.Drawing.Point(219, 118);
-            this.btnInserirMeio.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.btnInserirMeio.Margin = new System.Windows.Forms.Padding(6);
             this.btnInserirMeio.Name = "btnInserirMeio";
             this.btnInserirMeio.Size = new System.Drawing.Size(174, 62);
             this.btnInserirMeio.TabIndex = 5;
@@ -98,7 +98,7 @@
             // btnAsterisco
             // 
             this.btnAsterisco.Location = new System.Drawing.Point(423, 118);
-            this.btnAsterisco.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.btnAsterisco.Margin = new System.Windows.Forms.Padding(6);
             this.btnAsterisco.Name = "btnAsterisco";
             this.btnAsterisco.Size = new System.Drawing.Size(174, 62);
             this.btnAsterisco.TabIndex = 6;
@@ -119,9 +119,10 @@
             this.Controls.Add(this.txtPalavra2);
             this.Controls.Add(this.txtPalavra1);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Margin = new System.Windows.Forms.Padding(6, 6, 6, 6);
+            this.Margin = new System.Windows.Forms.Padding(6);
             this.Name = "frmExercicio2";
             this.Text = "frmExercicio2";
+            this.Load += new System.EventHandler(this.frmExercicio2_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

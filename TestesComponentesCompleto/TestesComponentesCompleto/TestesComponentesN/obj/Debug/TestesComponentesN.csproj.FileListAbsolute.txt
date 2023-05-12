@@ -1,0 +1,9 @@
+C:\Users\Denilce\Desktop\TestesComponentesN\TestesComponentesN\bin\Debug\TestesComponentesN.exe.config
+C:\Users\Denilce\Desktop\TestesComponentesN\TestesComponentesN\bin\Debug\TestesComponentesN.exe
+C:\Users\Denilce\Desktop\TestesComponentesN\TestesComponentesN\bin\Debug\TestesComponentesN.pdb
+C:\Users\Denilce\Desktop\TestesComponentesN\TestesComponentesN\obj\Debug\TestesComponentesN.Form1.resources
+C:\Users\Denilce\Desktop\TestesComponentesN\TestesComponentesN\obj\Debug\TestesComponentesN.Properties.Resources.resources
+C:\Users\Denilce\Desktop\TestesComponentesN\TestesComponentesN\obj\Debug\TestesComponentesN.csproj.GenerateResource.cache
+C:\Users\Denilce\Desktop\TestesComponentesN\TestesComponentesN\obj\Debug\TestesComponentesN.csproj.CoreCompileInputs.cache
+C:\Users\Denilce\Desktop\TestesComponentesN\TestesComponentesN\obj\Debug\TestesComponentesN.exe
+C:\Users\Denilce\Desktop\TestesComponentesN\TestesComponentesN\obj\Debug\TestesComponentesN.pdb

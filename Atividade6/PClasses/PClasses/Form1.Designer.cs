@@ -28,13 +28,48 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.btnMensalista = new System.Windows.Forms.Button();
+            this.btnHorista = new System.Windows.Forms.Button();
+            this.SuspendLayout();
+            // 
+            // btnMensalista
+            // 
+            this.btnMensalista.AccessibleRole = System.Windows.Forms.AccessibleRole.MenuBar;
+            this.btnMensalista.Location = new System.Drawing.Point(179, 184);
+            this.btnMensalista.Name = "btnMensalista";
+            this.btnMensalista.Size = new System.Drawing.Size(138, 67);
+            this.btnMensalista.TabIndex = 0;
+            this.btnMensalista.Text = "Mensalista";
+            this.btnMensalista.UseVisualStyleBackColor = true;
+            this.btnMensalista.Click += new System.EventHandler(this.btnMensalista_Click);
+            // 
+            // btnHorista
+            // 
+            this.btnHorista.Location = new System.Drawing.Point(468, 184);
+            this.btnHorista.Name = "btnHorista";
+            this.btnHorista.Size = new System.Drawing.Size(138, 67);
+            this.btnHorista.TabIndex = 1;
+            this.btnHorista.Text = "Horista";
+            this.btnHorista.UseVisualStyleBackColor = true;
+            this.btnHorista.Click += new System.EventHandler(this.btnHorista_Click);
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnHorista);
+            this.Controls.Add(this.btnMensalista);
+            this.Name = "Form1";
             this.Text = "Form1";
+            this.ResumeLayout(false);
+
         }
 
         #endregion
+
+        private System.Windows.Forms.Button btnMensalista;
+        private System.Windows.Forms.Button btnHorista;
     }
 }
 
