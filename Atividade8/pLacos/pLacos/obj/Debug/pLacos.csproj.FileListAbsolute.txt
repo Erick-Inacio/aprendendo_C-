@@ -1,0 +1,15 @@
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Atividade8\pLacos\pLacos\bin\Debug\pLacos.exe.config
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Atividade8\pLacos\pLacos\bin\Debug\pLacos.exe
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Atividade8\pLacos\pLacos\bin\Debug\pLacos.pdb
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Atividade8\pLacos\pLacos\obj\Debug\pLacos.csproj.AssemblyReference.cache
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Atividade8\pLacos\pLacos\obj\Debug\pLacos.csproj.SuggestedBindingRedirects.cache
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Atividade8\pLacos\pLacos\obj\Debug\pLacos.frmMenu.resources
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Atividade8\pLacos\pLacos\obj\Debug\pLacos.Properties.Resources.resources
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Atividade8\pLacos\pLacos\obj\Debug\pLacos.csproj.GenerateResource.cache
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Atividade8\pLacos\pLacos\obj\Debug\pLacos.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Atividade8\pLacos\pLacos\obj\Debug\pLacos.exe
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Atividade8\pLacos\pLacos\obj\Debug\pLacos.pdb
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Atividade8\pLacos\pLacos\obj\Debug\pLacos.frmExercicio1.resources
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Atividade8\pLacos\pLacos\obj\Debug\pLacos.frmExercicio2.resources
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Atividade8\pLacos\pLacos\obj\Debug\pLacos.frmExercicio3.resources
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Atividade8\pLacos\pLacos\obj\Debug\pLacos.frmExercicio4.resources

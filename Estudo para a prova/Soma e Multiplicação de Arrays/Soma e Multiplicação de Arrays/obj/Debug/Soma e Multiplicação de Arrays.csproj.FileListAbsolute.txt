@@ -1,0 +1,11 @@
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Estudo para a prova\Soma e Multiplicação de Arrays\Soma e Multiplicação de Arrays\bin\Debug\Soma e Multiplicação de Arrays.exe.config
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Estudo para a prova\Soma e Multiplicação de Arrays\Soma e Multiplicação de Arrays\bin\Debug\Soma e Multiplicação de Arrays.exe
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Estudo para a prova\Soma e Multiplicação de Arrays\Soma e Multiplicação de Arrays\bin\Debug\Soma e Multiplicação de Arrays.pdb
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Estudo para a prova\Soma e Multiplicação de Arrays\Soma e Multiplicação de Arrays\obj\Debug\Soma e Multiplicação de Arrays.csproj.AssemblyReference.cache
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Estudo para a prova\Soma e Multiplicação de Arrays\Soma e Multiplicação de Arrays\obj\Debug\Soma e Multiplicação de Arrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Estudo para a prova\Soma e Multiplicação de Arrays\Soma e Multiplicação de Arrays\obj\Debug\Soma_e_Multiplicação_de_Arrays.Form1.resources
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Estudo para a prova\Soma e Multiplicação de Arrays\Soma e Multiplicação de Arrays\obj\Debug\Soma_e_Multiplicação_de_Arrays.Properties.Resources.resources
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Estudo para a prova\Soma e Multiplicação de Arrays\Soma e Multiplicação de Arrays\obj\Debug\Soma e Multiplicação de Arrays.csproj.GenerateResource.cache
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Estudo para a prova\Soma e Multiplicação de Arrays\Soma e Multiplicação de Arrays\obj\Debug\Soma e Multiplicação de Arrays.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Estudo para a prova\Soma e Multiplicação de Arrays\Soma e Multiplicação de Arrays\obj\Debug\Soma e Multiplicação de Arrays.exe
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Estudo para a prova\Soma e Multiplicação de Arrays\Soma e Multiplicação de Arrays\obj\Debug\Soma e Multiplicação de Arrays.pdb

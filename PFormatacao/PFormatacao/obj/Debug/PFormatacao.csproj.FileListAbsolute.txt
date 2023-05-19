@@ -1,0 +1,12 @@
+C:\Users\erick\Desktop\Faculdade\2º Semestre\LP2\PFormatacao\PFormatacao\bin\Debug\PFormatacao.exe.config
+C:\Users\erick\Desktop\Faculdade\2º Semestre\LP2\PFormatacao\PFormatacao\bin\Debug\PFormatacao.exe
+C:\Users\erick\Desktop\Faculdade\2º Semestre\LP2\PFormatacao\PFormatacao\bin\Debug\PFormatacao.pdb
+C:\Users\erick\Desktop\Faculdade\2º Semestre\LP2\PFormatacao\PFormatacao\obj\Debug\PFormatacao.csproj.AssemblyReference.cache
+C:\Users\erick\Desktop\Faculdade\2º Semestre\LP2\PFormatacao\PFormatacao\obj\Debug\PFormatacao.csproj.SuggestedBindingRedirects.cache
+C:\Users\erick\Desktop\Faculdade\2º Semestre\LP2\PFormatacao\PFormatacao\obj\Debug\PFormatacao.Form1.resources
+C:\Users\erick\Desktop\Faculdade\2º Semestre\LP2\PFormatacao\PFormatacao\obj\Debug\PFormatacao.Properties.Resources.resources
+C:\Users\erick\Desktop\Faculdade\2º Semestre\LP2\PFormatacao\PFormatacao\obj\Debug\PFormatacao.csproj.GenerateResource.cache
+C:\Users\erick\Desktop\Faculdade\2º Semestre\LP2\PFormatacao\PFormatacao\obj\Debug\PFormatacao.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\Faculdade\2º Semestre\LP2\PFormatacao\PFormatacao\obj\Debug\PFormatacao.exe
+C:\Users\erick\Desktop\Faculdade\2º Semestre\LP2\PFormatacao\PFormatacao\obj\Debug\PFormatacao.pdb
+C:\Users\erick\Desktop\Faculdade\2º Semestre\LP2\PFormatacao\PFormatacao\obj\Debug\PFormatacao.Form2.resources
