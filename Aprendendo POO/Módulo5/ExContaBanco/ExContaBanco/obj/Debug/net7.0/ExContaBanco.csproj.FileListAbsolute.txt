@@ -1,0 +1,15 @@
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Aprendendo POO\Módulo5\ExContaBanco\ExContaBanco\bin\Debug\net7.0\ExContaBanco.exe
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Aprendendo POO\Módulo5\ExContaBanco\ExContaBanco\bin\Debug\net7.0\ExContaBanco.deps.json
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Aprendendo POO\Módulo5\ExContaBanco\ExContaBanco\bin\Debug\net7.0\ExContaBanco.runtimeconfig.json
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Aprendendo POO\Módulo5\ExContaBanco\ExContaBanco\bin\Debug\net7.0\ExContaBanco.dll
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Aprendendo POO\Módulo5\ExContaBanco\ExContaBanco\bin\Debug\net7.0\ExContaBanco.pdb
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Aprendendo POO\Módulo5\ExContaBanco\ExContaBanco\obj\Debug\net7.0\ExContaBanco.csproj.AssemblyReference.cache
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Aprendendo POO\Módulo5\ExContaBanco\ExContaBanco\obj\Debug\net7.0\ExContaBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Aprendendo POO\Módulo5\ExContaBanco\ExContaBanco\obj\Debug\net7.0\ExContaBanco.AssemblyInfoInputs.cache
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Aprendendo POO\Módulo5\ExContaBanco\ExContaBanco\obj\Debug\net7.0\ExContaBanco.AssemblyInfo.cs
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Aprendendo POO\Módulo5\ExContaBanco\ExContaBanco\obj\Debug\net7.0\ExContaBanco.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Aprendendo POO\Módulo5\ExContaBanco\ExContaBanco\obj\Debug\net7.0\ExContaBanco.dll
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Aprendendo POO\Módulo5\ExContaBanco\ExContaBanco\obj\Debug\net7.0\refint\ExContaBanco.dll
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Aprendendo POO\Módulo5\ExContaBanco\ExContaBanco\obj\Debug\net7.0\ExContaBanco.pdb
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Aprendendo POO\Módulo5\ExContaBanco\ExContaBanco\obj\Debug\net7.0\ExContaBanco.genruntimeconfig.cache
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Aprendendo POO\Módulo5\ExContaBanco\ExContaBanco\obj\Debug\net7.0\ref\ExContaBanco.dll
