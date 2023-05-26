@@ -7,3 +7,14 @@ C:\Users\Denilce\Desktop\TestesComponentesN\TestesComponentesN\obj\Debug\TestesC
 C:\Users\Denilce\Desktop\TestesComponentesN\TestesComponentesN\obj\Debug\TestesComponentesN.csproj.CoreCompileInputs.cache
 C:\Users\Denilce\Desktop\TestesComponentesN\TestesComponentesN\obj\Debug\TestesComponentesN.exe
 C:\Users\Denilce\Desktop\TestesComponentesN\TestesComponentesN\obj\Debug\TestesComponentesN.pdb
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\TestesComponentesCompleto\TestesComponentesCompleto\TestesComponentesN\bin\Debug\TestesComponentesN.exe.config
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\TestesComponentesCompleto\TestesComponentesCompleto\TestesComponentesN\bin\Debug\TestesComponentesN.exe
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\TestesComponentesCompleto\TestesComponentesCompleto\TestesComponentesN\bin\Debug\TestesComponentesN.pdb
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\TestesComponentesCompleto\TestesComponentesCompleto\TestesComponentesN\obj\Debug\TestesComponentesN.csproj.AssemblyReference.cache
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\TestesComponentesCompleto\TestesComponentesCompleto\TestesComponentesN\obj\Debug\TestesComponentesN.csproj.SuggestedBindingRedirects.cache
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\TestesComponentesCompleto\TestesComponentesCompleto\TestesComponentesN\obj\Debug\TestesComponentesN.Form1.resources
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\TestesComponentesCompleto\TestesComponentesCompleto\TestesComponentesN\obj\Debug\TestesComponentesN.Properties.Resources.resources
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\TestesComponentesCompleto\TestesComponentesCompleto\TestesComponentesN\obj\Debug\TestesComponentesN.csproj.GenerateResource.cache
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\TestesComponentesCompleto\TestesComponentesCompleto\TestesComponentesN\obj\Debug\TestesComponentesN.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\TestesComponentesCompleto\TestesComponentesCompleto\TestesComponentesN\obj\Debug\TestesComponentesN.exe
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\TestesComponentesCompleto\TestesComponentesCompleto\TestesComponentesN\obj\Debug\TestesComponentesN.pdb

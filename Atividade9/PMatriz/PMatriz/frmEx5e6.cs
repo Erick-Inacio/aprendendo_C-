@@ -20,7 +20,33 @@ namespace PMatriz
 
         private void btnMedia_Click(object sender, EventArgs e)
         {
+            double[,] notas = new double[20, 3];
+            double[] medias = new double[20];
 
+
+
+            for (int i = 0; i < notas.GetLength(0); i++)
+            {
+                double media = 0;
+
+                notas[i, 0] = i;
+
+                for (int j = 0; j < notas.GetLength(1); j++)
+                {
+                    notas[i, j] = double.Parse(Interaction.InputBox($"Digite a nota {j + 1} do aluno {i + 1}: ",
+                        $"Entrada Aluno {i + 1}"));
+
+                    media += notas[i, j];
+                }
+
+                medias[i] = media/3;
+
+            }
+
+            for (int i = 0; i < medias.GetLength(0); i++)
+            {
+                lstbxSaida.Items.Add($"Aluno {i + 1}: média: {medias[i].ToString("N1")}");
+            }
         }
 
         private void btnListaAluno_Click(object sender, EventArgs e)
@@ -38,6 +64,8 @@ namespace PMatriz
             {
                 lstbxSaida.Items.Add($"O nome: {nomes[i]} tem {tamanhos[i]} caracteres");
             }
+
+            
         }
     }
 }

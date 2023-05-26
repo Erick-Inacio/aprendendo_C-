@@ -39,7 +39,7 @@
             this.btnListaAluno.Name = "btnListaAluno";
             this.btnListaAluno.Size = new System.Drawing.Size(252, 163);
             this.btnListaAluno.TabIndex = 4;
-            this.btnListaAluno.Text = "4.Lista Aluno";
+            this.btnListaAluno.Text = "6.Lista Aluno";
             this.btnListaAluno.UseVisualStyleBackColor = true;
             this.btnListaAluno.Click += new System.EventHandler(this.btnListaAluno_Click);
             // 

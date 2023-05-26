@@ -68,7 +68,7 @@ namespace TestesComponentesN
             this.label1.Location = new System.Drawing.Point(82, 67);
             this.label1.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(180, 29);
+            this.label1.Size = new System.Drawing.Size(144, 24);
             this.label1.TabIndex = 1;
             this.label1.Text = "Nome do Aluno";
             // 
@@ -77,14 +77,14 @@ namespace TestesComponentesN
             this.textBox1.Location = new System.Drawing.Point(295, 62);
             this.textBox1.MaxLength = 50;
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(294, 34);
+            this.textBox1.Size = new System.Drawing.Size(294, 29);
             this.textBox1.TabIndex = 2;
             // 
             // textBox2
             // 
             this.textBox2.Location = new System.Drawing.Point(295, 131);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(167, 34);
+            this.textBox2.Size = new System.Drawing.Size(167, 29);
             this.textBox2.TabIndex = 4;
             // 
             // label2
@@ -93,7 +93,7 @@ namespace TestesComponentesN
             this.label2.Location = new System.Drawing.Point(82, 136);
             this.label2.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(45, 29);
+            this.label2.Size = new System.Drawing.Size(36, 24);
             this.label2.TabIndex = 3;
             this.label2.Text = "RA";
             // 
@@ -103,7 +103,7 @@ namespace TestesComponentesN
             this.label3.Location = new System.Drawing.Point(82, 201);
             this.label3.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(77, 29);
+            this.label3.Size = new System.Drawing.Size(61, 24);
             this.label3.TabIndex = 5;
             this.label3.Text = "Turno";
             // 
@@ -112,7 +112,7 @@ namespace TestesComponentesN
             this.checkBox1.AutoSize = true;
             this.checkBox1.Location = new System.Drawing.Point(295, 201);
             this.checkBox1.Name = "checkBox1";
-            this.checkBox1.Size = new System.Drawing.Size(104, 33);
+            this.checkBox1.Size = new System.Drawing.Size(87, 28);
             this.checkBox1.TabIndex = 6;
             this.checkBox1.Text = "Manhã";
             this.checkBox1.ThreeState = true;
@@ -132,7 +132,7 @@ namespace TestesComponentesN
             "Sistemas Biomédicos"});
             this.comboBox1.Location = new System.Drawing.Point(295, 261);
             this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(217, 37);
+            this.comboBox1.Size = new System.Drawing.Size(217, 32);
             this.comboBox1.Sorted = true;
             this.comboBox1.TabIndex = 7;
             // 
@@ -142,7 +142,7 @@ namespace TestesComponentesN
             this.label4.Location = new System.Drawing.Point(82, 261);
             this.label4.Margin = new System.Windows.Forms.Padding(5, 0, 5, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(77, 29);
+            this.label4.Size = new System.Drawing.Size(60, 24);
             this.label4.TabIndex = 8;
             this.label4.Text = "Curso";
             // 
@@ -151,17 +151,17 @@ namespace TestesComponentesN
             this.label5.AutoSize = true;
             this.label5.Location = new System.Drawing.Point(87, 342);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(83, 29);
+            this.label5.Size = new System.Drawing.Size(65, 24);
             this.label5.TabIndex = 9;
             this.label5.Text = "Turma";
             // 
             // listBox1
             // 
             this.listBox1.FormattingEnabled = true;
-            this.listBox1.ItemHeight = 29;
+            this.listBox1.ItemHeight = 24;
             this.listBox1.Location = new System.Drawing.Point(295, 342);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(243, 120);
+            this.listBox1.Size = new System.Drawing.Size(243, 100);
             this.listBox1.TabIndex = 10;
             // 
             // label6
@@ -169,7 +169,7 @@ namespace TestesComponentesN
             this.label6.AutoSize = true;
             this.label6.Location = new System.Drawing.Point(63, 501);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(199, 29);
+            this.label6.Size = new System.Drawing.Size(153, 24);
             this.label6.TabIndex = 11;
             this.label6.Text = "Data de Cadastro";
             // 
@@ -178,7 +178,7 @@ namespace TestesComponentesN
             this.maskedTextBox1.Location = new System.Drawing.Point(298, 501);
             this.maskedTextBox1.Mask = "00/00/0000";
             this.maskedTextBox1.Name = "maskedTextBox1";
-            this.maskedTextBox1.Size = new System.Drawing.Size(214, 34);
+            this.maskedTextBox1.Size = new System.Drawing.Size(214, 29);
             this.maskedTextBox1.TabIndex = 12;
             // 
             // groupBox1
@@ -191,6 +191,7 @@ namespace TestesComponentesN
             this.groupBox1.TabIndex = 13;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Veio transferido?";
+            this.groupBox1.Enter += new System.EventHandler(this.groupBox1_Enter);
             // 
             // radioButton2
             // 
@@ -198,7 +199,7 @@ namespace TestesComponentesN
             this.radioButton2.Checked = true;
             this.radioButton2.Location = new System.Drawing.Point(42, 100);
             this.radioButton2.Name = "radioButton2";
-            this.radioButton2.Size = new System.Drawing.Size(76, 33);
+            this.radioButton2.Size = new System.Drawing.Size(63, 28);
             this.radioButton2.TabIndex = 1;
             this.radioButton2.TabStop = true;
             this.radioButton2.Text = "Não";
@@ -209,7 +210,7 @@ namespace TestesComponentesN
             this.radioButton1.AutoSize = true;
             this.radioButton1.Location = new System.Drawing.Point(42, 49);
             this.radioButton1.Name = "radioButton1";
-            this.radioButton1.Size = new System.Drawing.Size(73, 33);
+            this.radioButton1.Size = new System.Drawing.Size(60, 28);
             this.radioButton1.TabIndex = 0;
             this.radioButton1.Text = "Sim";
             this.radioButton1.UseVisualStyleBackColor = true;
@@ -219,7 +220,7 @@ namespace TestesComponentesN
             this.label7.AutoSize = true;
             this.label7.Location = new System.Drawing.Point(636, 201);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(130, 29);
+            this.label7.Size = new System.Drawing.Size(99, 24);
             this.label7.TabIndex = 14;
             this.label7.Text = "Disciplinas";
             // 
@@ -248,15 +249,15 @@ namespace TestesComponentesN
             "Sociedade E Tecnologia"});
             this.checkedListBox1.Location = new System.Drawing.Point(641, 236);
             this.checkedListBox1.Name = "checkedListBox1";
-            this.checkedListBox1.Size = new System.Drawing.Size(395, 526);
+            this.checkedListBox1.Size = new System.Drawing.Size(395, 508);
             this.checkedListBox1.Sorted = true;
             this.checkedListBox1.TabIndex = 15;
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(14F, 29F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 24F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1924, 1056);
+            this.ClientSize = new System.Drawing.Size(1924, 749);
             this.Controls.Add(this.checkedListBox1);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.groupBox1);

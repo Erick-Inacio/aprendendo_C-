@@ -111,7 +111,7 @@ namespace PMatriz
             }
 
             string mensagem = string.Join("\n", arrayList.ToArray());
-            MessageBox.Show("Nomes: " + mensagem);
+            MessageBox.Show("Nomes:\n" + mensagem);
         }
 
         private void btnEx5e6_Click(object sender, EventArgs e)

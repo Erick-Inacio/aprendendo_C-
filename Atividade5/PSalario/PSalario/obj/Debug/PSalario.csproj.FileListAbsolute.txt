@@ -1,0 +1,11 @@
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Atividade5\PSalario\PSalario\bin\Debug\PSalario.exe.config
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Atividade5\PSalario\PSalario\bin\Debug\PSalario.exe
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Atividade5\PSalario\PSalario\bin\Debug\PSalario.pdb
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Atividade5\PSalario\PSalario\obj\Debug\PSalario.csproj.AssemblyReference.cache
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Atividade5\PSalario\PSalario\obj\Debug\PSalario.csproj.SuggestedBindingRedirects.cache
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Atividade5\PSalario\PSalario\obj\Debug\PSalario.Properties.Resources.resources
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Atividade5\PSalario\PSalario\obj\Debug\PSalario.csproj.GenerateResource.cache
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Atividade5\PSalario\PSalario\obj\Debug\PSalario.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Atividade5\PSalario\PSalario\obj\Debug\PSalario.exe
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Atividade5\PSalario\PSalario\obj\Debug\PSalario.pdb
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Atividade5\PSalario\PSalario\obj\Debug\PSalario.frmCalculo.resources
