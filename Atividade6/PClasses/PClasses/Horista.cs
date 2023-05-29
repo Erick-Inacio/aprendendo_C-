@@ -7,10 +7,10 @@ using System.Threading.Tasks;
 namespace PClasses
 {
     class Horista : Empregado
-        //nao posso herdar mais de uma classe não existe em c#, heranca multipla
+        //nao posso herdar mais de uma classe não existe em c# heranca multipla
     {
 
-        // prop e 2 x tab cria a estrutura da propriedade
+        // prop e 2 x tab (na fetec, no meu pc é apenas 1 tab) cria a estrutura da propriedade
         public double SalarioHora { get; set; }
         public double NumeroHora { get; set; }
         public int DiasFalta { get; set; }

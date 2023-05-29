@@ -55,5 +55,10 @@ namespace PClasses
                 objHorista.TempoTrabalho() +
                 '\n' + objHorista.VerificaHome());
         }
+
+        private void frmHorista_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -228,6 +228,7 @@
             this.Margin = new System.Windows.Forms.Padding(6);
             this.Name = "frmHorista";
             this.Text = "frmHorista";
+            this.Load += new System.EventHandler(this.frmHorista_Load);
             this.gbxHomeOffice.ResumeLayout(false);
             this.gbxHomeOffice.PerformLayout();
             this.ResumeLayout(false);

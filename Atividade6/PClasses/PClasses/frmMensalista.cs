@@ -67,5 +67,10 @@ namespace PClasses
                 '\n' + objMensalista.VerificaHome());
 
         }
+
+        private void frmMensalista_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

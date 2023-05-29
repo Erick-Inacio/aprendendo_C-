@@ -1,0 +1,15 @@
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Aprendendo POO\Módulo10\Ex2\Ex2\bin\Debug\net7.0\Ex2.exe
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Aprendendo POO\Módulo10\Ex2\Ex2\bin\Debug\net7.0\Ex2.deps.json
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Aprendendo POO\Módulo10\Ex2\Ex2\bin\Debug\net7.0\Ex2.runtimeconfig.json
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Aprendendo POO\Módulo10\Ex2\Ex2\bin\Debug\net7.0\Ex2.dll
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Aprendendo POO\Módulo10\Ex2\Ex2\bin\Debug\net7.0\Ex2.pdb
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Aprendendo POO\Módulo10\Ex2\Ex2\obj\Debug\net7.0\Ex2.csproj.AssemblyReference.cache
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Aprendendo POO\Módulo10\Ex2\Ex2\obj\Debug\net7.0\Ex2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Aprendendo POO\Módulo10\Ex2\Ex2\obj\Debug\net7.0\Ex2.AssemblyInfoInputs.cache
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Aprendendo POO\Módulo10\Ex2\Ex2\obj\Debug\net7.0\Ex2.AssemblyInfo.cs
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Aprendendo POO\Módulo10\Ex2\Ex2\obj\Debug\net7.0\Ex2.csproj.CoreCompileInputs.cache
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Aprendendo POO\Módulo10\Ex2\Ex2\obj\Debug\net7.0\Ex2.dll
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Aprendendo POO\Módulo10\Ex2\Ex2\obj\Debug\net7.0\refint\Ex2.dll
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Aprendendo POO\Módulo10\Ex2\Ex2\obj\Debug\net7.0\Ex2.pdb
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Aprendendo POO\Módulo10\Ex2\Ex2\obj\Debug\net7.0\Ex2.genruntimeconfig.cache
+C:\Users\erick\Desktop\Faculdade\aprendendo_Csharp\Aprendendo POO\Módulo10\Ex2\Ex2\obj\Debug\net7.0\ref\Ex2.dll
